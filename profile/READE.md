@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/GOD-TBnkz" target="_blank">
-    <img src="https://drive.google.com/uc?id=1ToO6Cv5YBMaaxswyi-ixcBGs3vrWo4hf" alt="3R4" width="800">
+    <img src="https://www.dropbox.com/scl/fi/8jg7t1ajwz3gg9mu2563w/3R4-SOLID.jpg?rlkey=r7tmg96vv1zmhyjuwi6aig0kr&st=1unc0ddn&dl=0" alt="3R4" width="800">
   </a>
 </h1>
 <p align="center">
