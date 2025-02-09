@@ -3,7 +3,7 @@
 </h1>
   <p align="center">
     <img alt="Release" src="https://www.dropbox.com/scl/fi/pfiqey458xe3xsyfhldrk/3R4-RELEASE.svg?rlkey=18w2nneoreq57c3pwqnpsirez&st=6v8kfcxv&raw=1" />
-    <img alt="Supported Versions" src="https://www.dropbox.com/scl/fi/efw8wdcqwa55oxisbd8v5/3R4-SUPORT.svg?rlkey=aabng42ekh39eed0vr6wcsgu4&st=y97nk4cf&dl=1" />
+    <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2011%20%26%2010-1a91ff?style=for-the-badge&logo=windows" />
   </p>
 <p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
 
